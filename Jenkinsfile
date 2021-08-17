@@ -18,7 +18,7 @@ pipeline {
                        }
                  }
                  steps {
-                       echo "Hellow"
+                       echo "Hell ow"
                  }
                  }
                
